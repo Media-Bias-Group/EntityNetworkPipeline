@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4b35d8-f378-4ecd-8cbd-3d5f47c9d55d" name="Default Changelist" comment="Updated Text is now stored in Article node and search uses regex">
+      <change beforePath="$PROJECT_DIR$/Experiment Relations Extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment Relations Extraction.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="d1249735-b0d0-4861-9227-109dbc266da7">
+    <option name="files">
+      <option value="MUP.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1dVoguEqW6UyVVAHuKaM8zB2ZZJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Documents\Masterarbeit\CSS_Termpaper\EntityNetwork" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="synonymset_iterable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EntityNetwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entitynetwork/enititynetwork_pipeline" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entitynetwork/enititynetwork_pipeline/synonymset_iterable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.synonymset_iterable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4b35d8-f378-4ecd-8cbd-3d5f47c9d55d" name="Default Changelist" comment="" />
+      <created>1592519735896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592519735896</updated>
+      <workItem from="1592519737211" duration="8092000" />
+      <workItem from="1592570364495" duration="37587000" />
+      <workItem from="1592656030689" duration="35356000" />
+      <workItem from="1592746466542" duration="1617000" />
+      <workItem from="1592748109761" duration="11142000" />
+      <workItem from="1592898344211" duration="1462000" />
+      <workItem from="1592951643470" duration="8374000" />
+      <workItem from="1593098496341" duration="1903000" />
+      <workItem from="1593294399912" duration="3302000" />
+      <workItem from="1593356268557" duration="3241000" />
+      <workItem from="1593435704806" duration="9814000" />
+      <workItem from="1593717511799" duration="24140000" />
+      <workItem from="1593782842182" duration="21041000" />
+      <workItem from="1593963093395" duration="7097000" />
+      <workItem from="1594066297409" duration="6425000" />
+      <workItem from="1594259852764" duration="627000" />
+      <workItem from="1594414056651" duration="287000" />
+      <workItem from="1595943677448" duration="4160000" />
+      <workItem from="1596210913849" duration="11406000" />
+      <workItem from="1596311957043" duration="22315000" />
+      <workItem from="1597843986690" duration="2930000" />
+      <workItem from="1597907825616" duration="23125000" />
+      <workItem from="1598004945880" duration="1205000" />
+      <workItem from="1598022462470" duration="212000" />
+      <workItem from="1598022691724" duration="74000" />
+      <workItem from="1598022777947" duration="2333000" />
+      <workItem from="1598441586891" duration="10014000" />
+      <workItem from="1598526932202" duration="15514000" />
+      <workItem from="1598614065270" duration="8317000" />
+      <workItem from="1598704302745" duration="2669000" />
+      <workItem from="1598717729358" duration="4457000" />
+      <workItem from="1598777132104" duration="124000" />
+      <workItem from="1598777349496" duration="12626000" />
+      <workItem from="1598805227254" duration="6572000" />
+      <workItem from="1598870934645" duration="29921000" />
+      <workItem from="1598967862354" duration="16072000" />
+      <workItem from="1599033244162" duration="10951000" />
+      <workItem from="1599047836410" duration="5349000" />
+      <workItem from="1599128225691" duration="12627000" />
+      <workItem from="1599213709107" duration="5304000" />
+      <workItem from="1599411738810" duration="24805000" />
+      <workItem from="1599466055154" duration="19174000" />
+      <workItem from="1599501493729" duration="1000000" />
+      <workItem from="1599507459081" duration="5260000" />
+      <workItem from="1599520215205" duration="1876000" />
+      <workItem from="1599575270288" duration="1686000" />
+      <workItem from="1599688220315" duration="7949000" />
+      <workItem from="1599725258409" duration="3450000" />
+      <workItem from="1599736713262" duration="1462000" />
+      <workItem from="1599817882970" duration="4241000" />
+      <workItem from="1600115363692" duration="9828000" />
+      <workItem from="1600207852052" duration="425000" />
+      <workItem from="1600258099848" duration="18010000" />
+      <workItem from="1600326330490" duration="24808000" />
+      <workItem from="1600421802391" duration="3273000" />
+      <workItem from="1600530982560" duration="3708000" />
+      <workItem from="1600898459113" duration="929000" />
+      <workItem from="1601084000644" duration="1919000" />
+      <workItem from="1601210791882" duration="2119000" />
+      <workItem from="1601847948037" duration="4094000" />
+      <workItem from="1602201753555" duration="81000" />
+      <workItem from="1603702307274" duration="63000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit of the validation tool. This is the version used for the css term paper">
+      <created>1593294548233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593294548233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit after Polnet and some improvements">
+      <created>1596339884706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596339884706</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Neo4j centrality algorithms corrected">
+      <created>1597913951890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597913951890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sentiment Scores for article and sentences">
+      <created>1597956057942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597956057942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test different tools; implement constituency parser and coref">
+      <created>1599520324012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599520324012</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update Validation Tool">
+      <created>1599694963788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599694963788</updated>
+    </task>
+    <task id="LOCAL-00007" summary="make use of coref information in first round">
+      <created>1599728077513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599728077513</updated>
+    </task>
+    <task id="LOCAL-00008" summary="try to prevent some warnings">
+      <created>1599824121209</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599824121209</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solved some runtime Problems. Now try parallelization on server.">
+      <created>1600424490529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600424490529</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated Text is now stored in Article node and search uses regex">
+      <created>1601212482100</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601212482100</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit of the validation tool. This is the version used for the css term paper" />
+    <MESSAGE value="Commit after Polnet and some improvements" />
+    <MESSAGE value="Neo4j centrality algorithms corrected" />
+    <MESSAGE value="Sentiment Scores for article and sentences" />
+    <MESSAGE value="Test different tools; implement constituency parser and coref" />
+    <MESSAGE value="Update Validation Tool" />
+    <MESSAGE value="make use of coref information in first round" />
+    <MESSAGE value="try to prevent some warnings" />
+    <MESSAGE value="Solved some runtime Problems. Now try parallelization on server." />
+    <MESSAGE value="Updated Text is now stored in Article node and search uses regex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Text is now stored in Article node and search uses regex" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2560" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598777243008">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598777243008" />
+    <state width="938" height="295" key="GridCell.Tab.0.bottom" timestamp="1600127807911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600127807911" />
+    <state width="1877" height="24" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599427283213" />
+    <state width="938" height="295" key="GridCell.Tab.0.center" timestamp="1600127807911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600127807911" />
+    <state width="1877" height="24" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599427283212" />
+    <state width="938" height="295" key="GridCell.Tab.0.left" timestamp="1600127807911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600127807911" />
+    <state width="1877" height="24" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599427283211" />
+    <state width="938" height="295" key="GridCell.Tab.0.right" timestamp="1600127807911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600127807911" />
+    <state width="1877" height="24" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1599427283213" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1599507551145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599507551145" />
+    <state x="2381" y="185" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598777391860" />
+    <state x="785" y="187" key="VCS.ChangeListViewerDialog" timestamp="1603702361450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="785" y="187" key="VCS.ChangeListViewerDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603702361450" />
+    <state x="610" y="265" key="Vcs.Push.Dialog.v2" timestamp="1601212495393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="610" y="265" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601212495393" />
+    <state x="2530" y="265" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600424501676" />
+    <state x="2485" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598563132551">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2485" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598563132551" />
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596339897703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1596339897703" />
+    <state x="664" y="328" key="git4idea.merge.GitPullDialog" timestamp="1601847978863">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="664" y="328" key="git4idea.merge.GitPullDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1601847978863" />
+    <state x="727" y="344" width="617" height="277" key="git4idea.rebase.GitRebaseDialog" timestamp="1603702366676">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="727" y="344" width="617" height="277" key="git4idea.rebase.GitRebaseDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603702366676" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600372264237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600372264237" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598779586508" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/entitynetwork/helper_classes/coref.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EntityNetwork$synonymset_iterable.coverage" NAME="synonymset_iterable Coverage Results" MODIFIED="1600119883771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entitynetwork/enititynetwork_pipeline" />
+  </component>
+</project>
